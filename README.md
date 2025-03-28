@@ -7,8 +7,9 @@
 * That's not it, though. Every 15-30 seconds, your mouse will be dragged to the farthest corner, once again leaving an ink trail across your screen.
 
 ### To run Scotoma:
-* Open the Scotoma application with the eyeball icon.
-
+#### Either:
+ * Open the Scotoma application with the eyeball icon or...
+ * run `Scotoma.py` locally
 ### To end the program:
 
 **1.** press "Ctrl + Shift + Esc"
